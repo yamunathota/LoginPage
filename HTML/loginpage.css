@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body
+{
+	background-color:green;
+}
+form
+{
+	width:300px;
+	background-color:white;
+}
+input[placeholer=usename]
+{
+	width:200px;
+	height:30px;
+}
+input[placeholder=password]
+{
+	width:200px;
+	height:30px;
+}
+input[type=submit]
+{
+	background-color:green;
+	color:white;
+	width:200px;
+	height:30px
+}
+a
+{
+color:green;
+text-decoration:none;
+
+}
