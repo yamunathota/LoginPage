@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+body
+{
+	background-color:cornflowerblue;
+}
+.form-center {
+  display:flex;
+  justify-content: center;
+}
+form
+{
+	text-align:center;
+	background-color:white;
+	width:350px;
+	height:450px;
+	
+}
+	
+input[type=email]
+{
+	width:240px;
+	height:40px;
+}
+
+input[type=password]
+{
+	width:240px;
+	height:40px;
+}
+
+input[type=submit]
+{
+	width:240px;
+	height:40px;
+	background-color:red
+}
+
+input[type=text]
+{
+	width:20px;
+	heght:20px;
+}
+
+.fa {
+	    border-radius:50%;
+        padding:5px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration:none;
+    } 
+    
+.fa-google {  
+         background: #ffffff;
+         color:  #dd4b39; 
+         border-style:solid;
+         border-color:#dd4b39;  
+           }
+           
+.fa-facebook {  
+        background: #ffffff;  
+        color: rgb(0, 64, 128);
+        border-style:solid;
+        border-color:  rgb(0, 64, 128); 
+             }  
+.fa-linkedin {  
+         background: #ffffff;  
+         color:  #007bb5; 
+         border-style:solid;
+         border-color:#007bb5;
+             }
+             a
+             {
+             color:black;
+             }
